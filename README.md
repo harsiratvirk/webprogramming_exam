@@ -64,4 +64,4 @@ All those elements should be concatenated into a text such as this: We have X am
 ### Task 8
 Task8: Java.  We will consider that we have implemented login logic into our application but we need to create 3 endpoints in order to handle the login process. Every time someone wants to login we need to call the login endpoint; every time someone wants to logout we need to call the logout endpoint. Starting with the ‘session’ object please create those endpoints*. We would also like to be capable of deleting some of the books we added. Let’s create a third endpoint that first checks if the user is logged in and then deletes the books that belong to the ‘Poetry’ category and are published later than the year 2000.
 
-*When I say start with the session object, I mean that the object should be used when you call /login or /logout or /delete because that object can store valuable information.
+When I say start with the session object, I mean that the object should be used when you call /login or /logout or /delete because that object can store valuable information.
