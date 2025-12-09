@@ -1,8 +1,6 @@
-# Exam_Webprogramming
+# Examination in DAPE1700 Webprogramming**
 
-**Examination in DAPE1700 - Webprogramming**
-
-**Grade**: 
+**Grade**: A
 
 **Form of assessment**: Written examination under supervision
 
