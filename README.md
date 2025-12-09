@@ -1,4 +1,4 @@
-# Examination in DAPE1700 Webprogramming
+# Examination in DAPE1700 - Web Programming
 
 **Grade**: A
 
